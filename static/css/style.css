@@ -1,0 +1,57 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+/* 
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+.legend {
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  color: rgba(255, 255, 255, 0.787);
+  background-color: #000000;
+  border-radius: 5px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+.legend .depth90plus {
+  color: #ff0505;
+}
+
+.legend .depth70_89 {
+  color: #fc4c00;
+}
+
+.legend .depth50_69 {
+  color: #f38a19;
+}
+
+.legend .depth30_49 {
+  color: #ecb318e4;
+}
+
+.legend .depth10_29 {
+  color: #f6cb1e;
+}
+
+.legend .depth09minus {
+  color: #fbff00;
+}  */
